@@ -1,6 +1,6 @@
 # designs
 
-A new Flutter project.
+A new Flutter project base on the tutorial [Flutter: Tu guía completa de desarrollo para IOS y Android](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/).
 
 ## Getting Started
 
